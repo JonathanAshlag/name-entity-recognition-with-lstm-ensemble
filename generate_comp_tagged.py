@@ -1,4 +1,4 @@
-# import save_test_embedding 
+import save_test_embedding 
 from LSTM_KNN import y
 
 file_path = "data/test.untagged"
